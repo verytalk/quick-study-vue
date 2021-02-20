@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --mode stage",
-    "dev": "vue-cli-service build --mode development && cp -r ./dist/* ../remember-words-java/src/main/resources/static/",
+    "dev": "vue-cli-service build --mode development && cp -r ./dist/* ../quick-study-java/src/main/resources/static/",
     "stage": "vue-cli-service build --mode stage",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",

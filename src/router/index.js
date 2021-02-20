@@ -108,7 +108,6 @@ export const asyncRouterMap = [
                 name: "单词列表",
                 icon: "",
                 meta: {
-                    // authRule: ["admin/ad/ad/index"]
                 }
             }
         ]

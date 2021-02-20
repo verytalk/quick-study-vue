@@ -3,7 +3,6 @@
  */
 import axios from "../../utils/axios";
 
-// 谁最懂我相关
 
 // 列表
 export function wordList(query) {

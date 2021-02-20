@@ -197,6 +197,7 @@
 
 <script>
 import { wordList, setY,setN,setV,setD,translate,wordListType,updateWord } from "../../api/word/wordList";
+import {BASE_URL} from "../../config/app";
 
 const formJson = {
     adId: "",

@@ -3,7 +3,6 @@
  */
 import axios from "../../utils/axios";
 
-// 权限管理
 
 // 获取列表
 export function authPermissionRuleList(query) {
